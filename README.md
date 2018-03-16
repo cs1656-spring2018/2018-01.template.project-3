@@ -47,7 +47,7 @@ The nodes in the Movies database have a number of attributes, including the foll
 
 ### Setup 
 
-You are asked to follow the installation instructions that were provided as part of Recitation 06.Python-Cypher (Feb 21, 2018). This will enable you to have a locally running neo4j server, along with an interactive query interface. You will also be able to download the Movies database directly into neo4j.
+You are asked to follow the installation instructions that were provided as part of `Recitation 06.Python-Cypher` (Feb 21, 2018). This will enable you to have a locally running neo4j server, along with an interactive query interface. You will also be able to download the Movies database directly into neo4j.
 
 Please note that although we will use the same database model for testing your submissions. However, it will not necessarily be identical to the one you will download.
 
