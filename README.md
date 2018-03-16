@@ -82,7 +82,7 @@ You are asked to provide Cypher queries that provide answers for the following q
 * **[Q7]** Show which directors have directed movies in at least 3 different genres.
 *OUTPUT*: director name, number of genres
 
-* **[Q8]** Show the top 10 pairs of actor, director combinations, in descending order of frequency of occ* ***asdasdurence. 
+* **[Q8]** Show the top 10 pairs of actor, director combinations, in descending order of frequency of occurence. 
 *OUTPUT*: director's name, actors' name, number of times director directed said actor in a movie
 
 
