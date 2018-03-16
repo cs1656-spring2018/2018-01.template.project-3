@@ -76,13 +76,13 @@ You are asked to provide Cypher queries that provide answers for the following q
 * **[Q5]** The Bacon number of an actor is the length of the shortest path between the actor and Kevin Bacon in the *"co-acting"* graph. That is, Kevin Bacon has Bacon number 0; all actors who acted in the same movie as him have Bacon number 1; all actors who acted in the same film as some actor with Bacon number 1 have Bacon number 2, etc. List all actors whose Bacon number is 2 (first name, last name). You can familiarize yourself with the concept, by visiting [The Oracle of Bacon](https://oracleofbacon.org).  
 *OUTPUT*: actor_name
 
-* **[Q6]** List which genres have movies where Kevin Bacon starred in.
+* **[Q6]** List which genres have movies where Kevin Bacon starred in.  
 *OUTPUT*: genre
 
-* **[Q7]** Show which directors have directed movies in at least 3 different genres.
+* **[Q7]** Show which directors have directed movies in at least 3 different genres.  
 *OUTPUT*: director name, number of genres
 
-* **[Q8]** Show the top 10 pairs of actor, director combinations, in descending order of frequency of occurence. 
+* **[Q8]** Show the top 10 pairs of actor, director combinations, in descending order of frequency of occurence.   
 *OUTPUT*: director's name, actors' name, number of times director directed said actor in a movie
 
 
