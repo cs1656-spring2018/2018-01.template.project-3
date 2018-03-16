@@ -103,9 +103,9 @@ match (n:Actor) return n.name, n.id order by n.birthday ASC LIMIT 3
 The output file should be as follows:
 ```
 ### Q0 ###
-Claudia Cardinale,4959
-Oliver Reed,936
-Anthony Hopkins,4173
+Claudia Cardinale, 4959
+Oliver Reed, 936
+Anthony Hopkins, 4173
 ```
 
 Finally, there should be an empty line between different results.
